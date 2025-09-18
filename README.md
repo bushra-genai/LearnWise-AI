@@ -51,7 +51,7 @@ LearnWise-AI/
 
 Clone the repository
 
-git clone https://github.com/your-username/LearnWise-AI.git
+git clone https://github.com/bushra-genai/LearnWise-AI/tree/main
 cd LearnWise-AI
 
 
